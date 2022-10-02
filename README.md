@@ -4,7 +4,7 @@
   <!--<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennis0324&theme=slateorange&hide=Procfile&layout=compact&langs_count=6"/>-->
   <img align="right" src="https://github.com/dennis0324/dennis0324/blob/main/src/logo_dark.png#gh-dark-mode-only"/>
   </div>
- <img align="right" src="https://github.com/dennis0324/dennis0324/blob/main/src/logo_light.png#gh-light-mode-only"/>
+ <img align="right" src="https://github.com/dennis0324/dennis0324/blob/main/src/logo_white.png#gh-light-mode-only"/>
   </div>
   <div align="center">
   <h3>dennis</h3> 
