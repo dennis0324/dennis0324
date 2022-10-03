@@ -24,7 +24,7 @@
 
 ## What can I do
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennis0324&theme=slateorange&hide=Procfile&layout=compact&langs_count=6"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennis0324&theme=dark&hide_border=true&hide=Procfile&layout=compact&langs_count=6"/>
 </div>
 
 
