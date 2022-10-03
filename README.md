@@ -15,7 +15,7 @@
 
 <div align="center">
 
-## DENNIS KO's recipt
+## DENNIS KO's stack
 
 </div>
 
