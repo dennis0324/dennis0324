@@ -23,12 +23,15 @@
 <div align="center">
 
 ## What can I do
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennis0324&theme=dark&hide_border=true&hide=Procfile&layout=compact&langs_count=6"/>
 </div>
+  
+<br>  
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennis0324&theme=dark&hide_border=true&hide=Procfile&layout=compact&langs_count=6"/>
+</div>
+<br>
 
 
-<div align="center">
+<div align="left">
 
 ## Other ingredients
   <!--<img align="right" display="block" src="https://github-readme-stats.vercel.app/api?username=dennis0324&theme=slateorange&hide_rank=true&line_height=24"/>-->
