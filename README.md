@@ -30,14 +30,4 @@
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennis0324&theme=dark&hide_border=true&hide=Procfile&layout=compact&langs_count=6"/>
 </div>
 <br>
-
-
-<div align="left">
-
-## Other ingredients
-  <!--<img align="right" display="block" src="https://github-readme-stats.vercel.app/api?username=dennis0324&theme=slateorange&hide_rank=true&line_height=24"/>-->
-</div>
-
-
-  <img align="center" src="https://github.com/dennis0324/dennis0324/blob/main/src/footer_dark.png#gh-dark-mode-only"/>
-  <img align="center" src="https://github.com/dennis0324/dennis0324/blob/main/src/footer_light.png#gh-light-mode-only"/>
+<img align="right" display="block" src="https://github-readme-stats.vercel.app/api?username=dennis0324&theme=slateorange&hide_rank=true&line_height=24"/>
