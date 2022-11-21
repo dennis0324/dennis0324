@@ -19,9 +19,9 @@
 
 </div>
 
-<a><img height=25 src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff"/></a>
+<!-- <a><img height=25 src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff"/></a> -->
 
-<div align="center">
+<div align="right">
 
 ## What can I do
 </div>
