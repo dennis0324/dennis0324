@@ -17,7 +17,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennis0324&theme=dark&hide_border=true&hide=Procfile&layout=compact&langs_count=8"/>
   
   
-  ### DENNIS KO's stack
+  ### DENNIS KO
   <br>
   <a href="https://solved.ac/dennis0324"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dennis0324"/></a>
 </div>
