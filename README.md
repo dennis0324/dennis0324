@@ -9,7 +9,7 @@
   </div>
   <div align="center">
 
-  <!--<a href="https://solved.ac/dennis0324"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dennis0324"/></a>-->
+  <a href="https://solved.ac/dennis0324"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dennis0324"/></a>
  
 </div>
 
@@ -30,4 +30,4 @@
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennis0324&theme=dark&hide_border=true&hide=Procfile&layout=compact&langs_count=6"/>
 </div>
 <br>
-<img align="right" display="block" src="https://github-readme-stats.vercel.app/api?username=dennis0324&theme=slateorange&hide_rank=true&line_height=24"/>
+<!-- <img align="right" display="block" src="https://github-readme-stats.vercel.app/api?username=dennis0324&theme=slateorange&hide_rank=true&line_height=24"/> -->
